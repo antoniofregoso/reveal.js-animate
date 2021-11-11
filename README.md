@@ -3,6 +3,7 @@ Integration of the animation library [animate.css](https://animate.style/) to re
 
 Animate the childNodes of each slide identifying them by html tag (tagName).
 They are written in capital letters as: H1, H2, ...., H6, TABLE, IMG, DIV, P, OL, UL etc.
+
 3 parameters are used:
 - **Animation type:** animated.
 - **Speed:** speed.
