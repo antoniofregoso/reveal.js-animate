@@ -1,0 +1,25 @@
+{
+  "name": "reveal.js-animate",
+  "version": "1.0.0",
+  "description": "Integration of the animation library animate.css to reveal.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniofregoso/reveal.js-animate.git"
+  },
+  "keywords": [
+    "reveal.js",
+    "animation",
+    "animated",
+    "css"
+  ],
+  "author": "Antonio Fregoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antoniofregoso/reveal.js-animate/issues"
+  },
+  "homepage": "https://github.com/antoniofregoso/reveal.js-animate#readme"
+}
