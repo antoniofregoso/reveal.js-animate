@@ -2,7 +2,7 @@
   "name": "reveal.js-animate",
   "version": "1.0.0",
   "description": "Integration of the animation library animate.css to reveal.js",
-  "main": "index.js",
+  "main": "animate.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
